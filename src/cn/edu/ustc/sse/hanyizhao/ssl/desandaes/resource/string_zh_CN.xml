@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="appName">加密工具</entry>
+    <entry key="confirm">确认</entry>
+    <entry key="encrypt_file">加密文件</entry>
+    <entry key="decrypt_file">解密文件</entry>
+    <entry key="import">导入</entry>
+    <entry key="remove">移除</entry>
+    <entry key="clear_all">清空</entry>
+    <entry key="refresh">刷新</entry>
+    <entry key="id">序号</entry>
+    <entry key="status">状态</entry>
+    <entry key="file_name">文件名</entry>
+    <entry key="path">路径</entry>
+    <entry key="open_path">打开路径</entry>
+    <entry key="tips">提示</entry>
+    <entry key="set_password_and_algorithm_for_encryption">设置加密所需的密码和算法</entry>
+    <entry key="need_password">需要密码</entry>
+    <entry key="failed_to_rename_file_">重命名文件失败！ {0}</entry>
+    <entry key="failed_to_delete_temporary file_">删除临时文件失败！ {0}</entry>
+    <entry key="logs">日志</entry>
+    <entry key="no_file_needs_to_be_">没有要{0}的文件</entry>
+    <entry key="encrypted">加密</entry>
+    <entry key="decrypted">解密</entry>
+    <entry key="please_import_some_files_first">请先导入文件。</entry>
+    <entry key="confirm_">确认要{0}？</entry>
+    <entry key="exit_program">退出加密工具</entry>
+    <entry key="encrypt">加密</entry>
+    <entry key="decrypt">解密</entry>
+    <entry key="these_files">这些文件</entry>
+    <entry key="success_count">成功{0}个。</entry>
+    <entry key="already_encrypted_aes">已加密（AES）</entry>
+    <entry key="already_encrypted_des">已加密（DES）</entry>
+    <entry key="unencrypted">未加密</entry>
+    <entry key="processing...">处理中...</entry>
+    <entry key="error">错误</entry>
+    <entry key="password:">密码：</entry>
+    <entry key="confirm_password:">确认密码：</entry>
+    <entry key="ok">确认</entry>
+    <entry key="cancel">取消</entry>
+    <entry key="password_cant_be_blank">密码不能为空。</entry>
+    <entry key="password_not_match">两次输入密码不同。</entry>
+    <entry key="error:target_file_and_source_file_are_the_same">错误：加密源文件与目标文件为同一文件。</entry>
+    <entry key="error:file_has_been_encrypted_do_not_encrypt_again">错误：文件已经使用AES或者DES加密，请不要再次加密。</entry>
+    <entry key="error:this_file_is_not_encrypted_no_need">错误：文件没有被加密，不需要解密。</entry>
+    <entry key="error:wrong_password">错误：密码不正确。</entry>
+</properties>

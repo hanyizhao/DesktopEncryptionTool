@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="appName">Encryption Tool</entry>
+    <entry key="confirm">Confirm</entry>
+    <entry key="encrypt_file">Encrypt</entry>
+    <entry key="decrypt_file">Decrypt</entry>
+    <entry key="import">Import</entry>
+    <entry key="remove">Remove</entry>
+    <entry key="clear_all">Clear All</entry>
+    <entry key="refresh">Refresh</entry>
+    <entry key="id">ID</entry>
+    <entry key="status">Status</entry>
+    <entry key="file_name">File Name</entry>
+    <entry key="path">Path</entry>
+    <entry key="open_path">Open Path</entry>
+    <entry key="tips">Tips</entry>
+    <entry key="set_password_and_algorithm_for_encryption">Set the password and algorithm for encryption</entry>
+    <entry key="need_password">Need password</entry>
+    <entry key="failed_to_rename_file_">Failed to rename file {0}.</entry>
+    <entry key="failed_to_delete_temporary file_">Failed to delete the temporary file {0}.</entry>
+    <entry key="logs">Logs</entry>
+    <entry key="no_file_needs_to_be_">These files do not needs to be {0}.</entry>
+    <entry key="encrypted">encrypted</entry>
+    <entry key="decrypted">decrypted</entry>
+    <entry key="please_import_some_files_first">Please import some files first.</entry>
+    <entry key="confirm_">Are you sure you want to {0}?</entry>
+    <entry key="exit_program">exit Encryption Tool</entry>
+    <entry key="encrypt">encrypt</entry>
+    <entry key="decrypt">decrypt</entry>
+    <entry key="these_files">these files</entry>
+    <entry key="success_count">Successfully completed {0} items.</entry>
+    <entry key="already_encrypted_aes">Encrypted(AES)</entry>
+    <entry key="already_encrypted_des">Encrypted(DES)</entry>
+    <entry key="unencrypted">Unencrypted</entry>
+    <entry key="processing...">Processing...</entry>
+    <entry key="error">Error</entry>
+    <entry key="password:">Password:</entry>
+    <entry key="confirm_password:">Confirm:</entry>
+    <entry key="ok">OK</entry>
+    <entry key="cancel">Cancel</entry>
+    <entry key="password_cant_be_blank">Password can't be blank.</entry>
+    <entry key="password_not_match">Password confirmation doesn't match the password.</entry>
+    <entry key="error:target_file_and_source_file_are_the_same">ERROR: The target file and the source file are the same file.</entry>
+    <entry key="error:file_has_been_encrypted_do_not_encrypt_again">ERROR: This file has been encrypted.</entry>
+    <entry key="error:this_file_is_not_encrypted_no_need">ERROR: This file is not encrypted. So there is no need to decrypt it.</entry>
+    <entry key="error:wrong_password">ERROR: Wrong password.</entry>
+</properties>
